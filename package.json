@@ -1,7 +1,7 @@
 {
   "name": "speedlify",
   "version": "1.0.0",
-  "description": "",
+  "description": "voor essent",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf _data/results/* && rm -rf .log && rm -rf _site",
